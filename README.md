@@ -1,7 +1,9 @@
 # ASIC Flow Course
-> VLSI (Very Large Scale Integration) ASIC (Application-Specific Integrated Circuit) design is a specialized field of electronic engineering focused on creating custom-designed integrated circuits for specific applications. These circuits are optimized for a particular function or set of functions, making them highly efficient and tailored to the requirements of the targeted device or system.
+# Objective 
+> VLSI ASIC design involves creating custom circuits optimized for specific tasks using RTL (Register-Transfer Level) description. This involves designing digital logic using hardware description languages like VHDL or Verilog, converting it to gate-level representation through synthesis, and eventually translating it into a physical layout for fabrication. The process includes architectural design, logic implementation, verification, and testing, resulting in highly efficient and tailored integrated circuits.
 
 # ASIC Flow Course Assignments - Guided by Kunal Ghosh
+> 
 
 # DAY-1 : Introduction to RISC-V ISA and GNU compiler toolchain
 

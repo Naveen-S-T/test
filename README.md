@@ -1,4 +1,6 @@
 # ASIC Flow Course Assignments - Guided by Kunal Ghosh
+> VLSI (Very Large Scale Integration) ASIC (Application-Specific Integrated Circuit) design is a specialized field of electronic engineering focused on creating custom-designed integrated circuits for specific applications. These circuits are optimized for a particular function or set of functions, making them highly efficient and tailored to the requirements of the targeted device or system.
+
 # DAY-1 : Introduction to RISC-V ISA and GNU compiler toolchain
 
 # Task-1 : C Program To Compute Sum From 1 to N (using gcc) & Spike Simulation And Debug (using RISCV) #4

@@ -7,6 +7,14 @@
 + Logic Synthesis
 + Physical Design
 + Verification
+
+# Requirements
+- ubuntu 20 + 
+- min. disk space 150 Gb 
+- RAM at least 6 Gb
+
+# Steps for installation
+> 
   
 # ASIC Flow Course Assignments - Guided by Kunal Ghosh
 # Table of contents

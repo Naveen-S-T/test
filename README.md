@@ -14,7 +14,7 @@
 - RAM at least 6 Gb
 
 # Steps for installation
-` Enter these commands in terminal `
+- Enter these commands in terminal 
 ````
 git clone https://github.com/kunalg123/riscv_workshop_collaterals
 cd riscv_workshop_collaterals
